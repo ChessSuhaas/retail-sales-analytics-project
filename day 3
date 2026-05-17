@@ -1,0 +1,40 @@
+## Day 3 Progress
+
+### Concepts Practiced
+- HAVING clause
+- Date analysis
+- Multiple filtering conditions
+- Advanced business analysis queries
+- Difference between WHERE and HAVING
+- Difference between detail queries and summary queries
+
+### SQL Skills Learned
+- Filtering grouped data using HAVING
+- Using COUNT(), SUM()
+- Combining WHERE + GROUP BY + HAVING
+- Date range filtering using BETWEEN
+- Revenue analysis by category and region
+- Order count analysis by date
+
+### Business Questions Solved
+- Regions with sales greater than 2000
+- Categories with more than 3 orders
+- Highest sales day
+- Electronics revenue by region
+- Orders between specific dates
+- Dates with more than 2 orders
+
+### Important Learnings
+- WHERE filters rows before grouping
+- HAVING filters grouped results after aggregation
+- GROUP BY is used for summarized analysis
+- ORDER BY helps rank business metrics
+- Aggregate functions are used for KPI calculations
+
+### Project Status
+The Retail Sales Analytics project now includes:
+- Database creation
+- Sales table setup
+- Sample business dataset
+- Intermediate-level SQL analytics queries
+- Revenue and trend analysis
