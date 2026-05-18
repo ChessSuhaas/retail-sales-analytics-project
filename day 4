@@ -1,0 +1,49 @@
+## Day 4 Progress
+
+### Concepts Learned
+- Relational database design
+- Multiple related tables
+- INNER JOIN
+- LEFT JOIN
+- NULL handling
+- Multi-table business analysis
+- Join direction behavior
+
+### Tables Created
+- customers
+- products
+- sales_v2
+
+### SQL Skills Practiced
+- Table relationships using IDs
+- Joining tables using INNER JOIN
+- Finding unmatched records using LEFT JOIN
+- Using aliases for cleaner SQL
+- Multi-table reporting queries
+- Aggregation with joins
+- ORDER BY and LIMIT with joins
+
+### Business Questions Solved
+- Which customer bought which product?
+- Customer total spending
+- Highest spending customer
+- Region-wise product revenue
+- Customers without orders
+- Products never sold
+- Full customer purchase report
+
+### Important Learnings
+- INNER JOIN returns matching rows only
+- LEFT JOIN keeps all rows from the left table
+- NULL values indicate missing matches
+- GROUP BY creates separate groups for aggregation
+- Aggregate functions work inside groups
+- Multiple correct SQL solutions can exist for same problem
+
+### Project Status
+The Retail Sales Analytics project now includes:
+- Relational database structure
+- Multiple connected tables
+- Intermediate SQL joins
+- Multi-table analytical queries
+- Customer and product analysis reports
