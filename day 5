@@ -1,0 +1,59 @@
+## Day 5 Progress
+
+### Concepts Learned
+- SQL subqueries
+- Nested query logic
+- Aggregate comparisons
+- SQL execution order
+- Dynamic filtering using subqueries
+- Intermediate analytical SQL patterns
+
+### SQL Skills Practiced
+- Subqueries inside WHERE and HAVING
+- Using IN and NOT IN
+- Comparing grouped results against averages
+- Combining JOIN + GROUP BY + HAVING + subqueries
+- Filtering aggregated results
+- Building analyst-style SQL reports
+
+### Important SQL Concepts Understood
+- WHERE executes before GROUP BY
+- HAVING executes after aggregation
+- SELECT aliases are not available inside HAVING
+- ORDER BY can often use aliases because it executes later
+- GROUP BY creates separate groups based on repeated values
+- Aggregate functions work within groups
+- SQL problems can be solved in multiple valid ways
+
+### Business Questions Solved
+- Orders above average sales
+- Customers who placed orders
+- Customers without orders
+- Products with revenue above threshold
+- Regions with total sales above average
+- Highest spending customer
+- Region-wise sales analysis
+
+### Important Learnings
+- Aggregate comparisons can require nested subqueries
+- Breaking complex SQL into smaller logical queries helps understanding
+- JOINs connect relational data using unique IDs
+- Product IDs and customer IDs act as unique identifiers
+- SQL execution order explains many confusing behaviors
+- Business interpretation of metrics is important in analytics
+
+### Analytical Growth
+Today focused heavily on:
+- understanding business meaning behind queries
+- debugging SQL logic independently
+- reasoning through grouped data comparisons
+- practicing intermediate-level SQL thinking
+
+### Project Status
+The Retail Sales Analytics project now includes:
+- Relational database schema
+- Multi-table analytical queries
+- INNER JOIN and LEFT JOIN practice
+- Subquery-based filtering
+- Intermediate SQL reporting queries
+- Business-oriented data analysis workflows
