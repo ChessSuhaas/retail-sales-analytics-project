@@ -1,0 +1,65 @@
+## Day 6 Progress
+
+### New Project Started
+- E-Commerce Order Management System
+
+### Database Schema Created
+- ecommerce_customers
+- ecommerce_products
+- ecommerce_orders
+- ecommerce_order_items
+
+### Relational Database Concepts Practiced
+- Multi-table relationships
+- Primary key and foreign key thinking
+- Order management schema design
+- Product-order-customer relationships
+
+### SQL Skills Practiced
+- 4-table INNER JOIN queries
+- Customer order reporting
+- Product revenue calculations
+- Aggregation with business metrics
+- GROUP BY with calculated values
+- ORDER BY with aggregated revenue
+- Revenue calculations using quantity × price
+
+### Business Questions Solved
+- Customer Orders Report
+- Full Order Details Report
+- Customer Total Spending
+- Highest Revenue Product
+- Product revenue analysis
+
+### Important SQL Concepts Learned
+- Revenue calculations require:
+  quantity × price
+- WHERE filters rows
+- SELECT calculates values
+- GROUP BY creates aggregation groups
+- HAVING filters grouped results
+- SQL execution order affects alias usage
+- Business metrics are different from raw column values
+
+### Analytical Thinking Improvements
+Today focused heavily on:
+- understanding business calculations
+- applying SQL on a completely new schema
+- building multi-step JOIN logic independently
+- translating relational data into reports
+- reasoning through SQL execution behavior
+
+### Major Progress
+- Successfully adapted SQL skills to a new database structure
+- Built 4-table JOIN queries independently
+- Improved confidence with analytical SQL thinking
+- Better understanding of real-world business metrics
+
+### Project Status
+The SQL learning project now includes:
+- Retail Sales Analytics schema
+- E-Commerce Order Management schema
+- Multi-table reporting queries
+- Revenue analysis workflows
+- Intermediate relational SQL practice
+- Business-oriented analytical querying
