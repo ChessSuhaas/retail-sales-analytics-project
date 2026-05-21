@@ -1,0 +1,66 @@
+## Day 6 Continued Progress
+
+### Concepts Strengthened
+- Multi-table relational joins
+- Business metric selection
+- Revenue calculations
+- SQL execution order
+- WHERE vs HAVING logic
+- Analytical query reasoning
+
+### SQL Skills Practiced
+- 4-table JOIN queries
+- Revenue aggregation using quantity × price
+- COUNT vs SUM usage
+- LEFT JOIN missing-record analysis
+- Grouped business reporting
+- Query simplification and optimization thinking
+
+### Business Questions Solved
+- Customers with multiple orders
+- Category-wise revenue
+- Products never ordered
+- Most ordered product
+- Highest revenue product
+- Customer spending analysis
+
+### Important SQL Learnings
+- COUNT(*) measures rows/orders
+- SUM(quantity) measures total items sold
+- Revenue requires:
+  quantity × price
+- WHERE filters rows before SELECT
+- HAVING filters grouped/aggregated results
+- Correct business metric selection is critical in analytics
+- Simplifying unnecessary joins improves query quality
+
+### Analytical Improvements
+Today focused heavily on:
+- understanding what each metric actually represents
+- selecting correct aggregation methods
+- identifying correct source tables for calculations
+- distinguishing between business logic and SQL syntax
+- improving query reasoning instead of memorization
+
+### Major Progress Signs
+- Adapted SQL concepts successfully to a new schema
+- Built multi-table JOIN logic more naturally
+- Improved understanding of relational database flow
+- Better reasoning around business-oriented SQL questions
+- Stronger understanding of SQL execution behavior
+
+### Current SQL Level Progress
+Current strengths include:
+- JOINs
+- GROUP BY / HAVING
+- LEFT JOIN logic
+- Aggregation reasoning
+- Business reporting queries
+- Early intermediate analytical SQL thinking
+
+### Next Topics Planned
+- CASE WHEN
+- CTEs (Common Table Expressions)
+- More analyst-style reporting queries
+- Window Functions introduction
+- Advanced business analysis SQL
